@@ -1,0 +1,54 @@
+Creating offscreen glfw
+Creating window glfw
+Epoch:0| Running_reward:-50.000| EP_reward:-50.000| Memory_length:100| Duration:293.638| Actor_Loss:0.547| Critic_Loss:0.001| Success rate:0.000| 3.7/7.7 GB RAM
+Epoch:1| Running_reward:-50.000| EP_reward:-50.000| Memory_length:200| Duration:298.413| Actor_Loss:0.919| Critic_Loss:0.002| Success rate:0.000| 3.7/7.7 GB RAM
+Epoch:2| Running_reward:-50.000| EP_reward:-50.000| Memory_length:300| Duration:318.171| Actor_Loss:1.489| Critic_Loss:0.005| Success rate:0.000| 3.8/7.7 GB RAM
+Epoch:3| Running_reward:-50.000| EP_reward:-50.000| Memory_length:400| Duration:314.656| Actor_Loss:1.774| Critic_Loss:0.043| Success rate:0.000| 3.8/7.7 GB RAM
+Epoch:4| Running_reward:-50.000| EP_reward:-50.000| Memory_length:500| Duration:308.466| Actor_Loss:2.079| Critic_Loss:0.011| Success rate:0.000| 3.9/7.7 GB RAM
+Epoch:5| Running_reward:-50.000| EP_reward:-50.000| Memory_length:600| Duration:318.889| Actor_Loss:2.534| Critic_Loss:0.012| Success rate:0.000| 4.0/7.7 GB RAM
+Epoch:6| Running_reward:-50.000| EP_reward:-50.000| Memory_length:700| Duration:309.105| Actor_Loss:2.424| Critic_Loss:0.016| Success rate:0.000| 3.9/7.7 GB RAM
+Epoch:7| Running_reward:-50.000| EP_reward:-50.000| Memory_length:800| Duration:308.228| Actor_Loss:3.140| Critic_Loss:0.010| Success rate:0.000| 4.0/7.7 GB RAM
+Epoch:8| Running_reward:-50.000| EP_reward:-50.000| Memory_length:900| Duration:302.367| Actor_Loss:2.673| Critic_Loss:0.028| Success rate:0.000| 4.1/7.7 GB RAM
+Epoch:9| Running_reward:-50.000| EP_reward:-50.000| Memory_length:1000| Duration:328.666| Actor_Loss:3.587| Critic_Loss:0.056| Success rate:0.000| 4.3/7.7 GB RAM
+Epoch:10| Running_reward:-49.627| EP_reward:-50.000| Memory_length:1100| Duration:306.415| Actor_Loss:3.961| Critic_Loss:0.065| Success rate:0.100| 4.4/7.7 GB RAM
+Epoch:11| Running_reward:-50.000| EP_reward:-50.000| Memory_length:1200| Duration:302.190| Actor_Loss:4.311| Critic_Loss:0.033| Success rate:0.000| 4.4/7.7 GB RAM
+Epoch:12| Running_reward:-50.000| EP_reward:-50.000| Memory_length:1300| Duration:296.499| Actor_Loss:3.420| Critic_Loss:0.062| Success rate:0.000| 4.3/7.7 GB RAM
+Epoch:13| Running_reward:-50.000| EP_reward:-50.000| Memory_length:1400| Duration:300.848| Actor_Loss:4.806| Critic_Loss:0.038| Success rate:0.000| 4.3/7.7 GB RAM
+Epoch:14| Running_reward:-50.000| EP_reward:-50.000| Memory_length:1500| Duration:300.626| Actor_Loss:4.528| Critic_Loss:0.869| Success rate:0.000| 4.2/7.7 GB RAM
+Epoch:15| Running_reward:-50.000| EP_reward:-50.000| Memory_length:1600| Duration:284.685| Actor_Loss:4.764| Critic_Loss:0.052| Success rate:0.000| 4.2/7.7 GB RAM
+Epoch:16| Running_reward:-49.971| EP_reward:-50.000| Memory_length:1700| Duration:279.434| Actor_Loss:4.893| Critic_Loss:0.112| Success rate:0.000| 4.2/7.7 GB RAM
+Epoch:17| Running_reward:-50.000| EP_reward:-50.000| Memory_length:1800| Duration:276.666| Actor_Loss:5.108| Critic_Loss:0.036| Success rate:0.000| 4.1/7.7 GB RAM
+Epoch:18| Running_reward:-50.000| EP_reward:-50.000| Memory_length:1900| Duration:279.828| Actor_Loss:5.365| Critic_Loss:0.465| Success rate:0.000| 4.0/7.7 GB RAM
+Epoch:19| Running_reward:-50.000| EP_reward:-50.000| Memory_length:2000| Duration:287.533| Actor_Loss:5.373| Critic_Loss:0.108| Success rate:0.000| 3.6/7.7 GB RAM
+Epoch:20| Running_reward:-50.000| EP_reward:-50.000| Memory_length:2100| Duration:280.757| Actor_Loss:5.275| Critic_Loss:0.181| Success rate:0.000| 3.6/7.7 GB RAM
+Epoch:21| Running_reward:-50.000| EP_reward:-50.000| Memory_length:2200| Duration:282.218| Actor_Loss:4.270| Critic_Loss:0.218| Success rate:0.000| 3.6/7.7 GB RAM
+Epoch:22| Running_reward:-50.000| EP_reward:-50.000| Memory_length:2300| Duration:283.101| Actor_Loss:4.840| Critic_Loss:0.100| Success rate:0.000| 3.7/7.7 GB RAM
+Epoch:23| Running_reward:-49.265| EP_reward:-5.000| Memory_length:2400| Duration:282.311| Actor_Loss:4.647| Critic_Loss:0.319| Success rate:0.200| 3.7/7.7 GB RAM
+Epoch:24| Running_reward:-50.000| EP_reward:-50.000| Memory_length:2500| Duration:287.634| Actor_Loss:5.179| Critic_Loss:0.226| Success rate:0.000| 3.8/7.7 GB RAM
+Epoch:25| Running_reward:-9.488| EP_reward:-50.000| Memory_length:2600| Duration:284.175| Actor_Loss:5.569| Critic_Loss:0.263| Success rate:0.200| 3.8/7.7 GB RAM
+Epoch:26| Running_reward:-50.000| EP_reward:-50.000| Memory_length:2700| Duration:284.094| Actor_Loss:5.037| Critic_Loss:0.099| Success rate:0.000| 3.8/7.7 GB RAM
+Epoch:27| Running_reward:-49.199| EP_reward:-50.000| Memory_length:2800| Duration:285.619| Actor_Loss:5.406| Critic_Loss:0.128| Success rate:0.200| 3.8/7.7 GB RAM
+Epoch:28| Running_reward:-49.367| EP_reward:-50.000| Memory_length:2900| Duration:283.687| Actor_Loss:6.107| Critic_Loss:0.103| Success rate:0.200| 3.7/7.7 GB RAM
+Epoch:29| Running_reward:-50.000| EP_reward:-50.000| Memory_length:3000| Duration:283.639| Actor_Loss:4.681| Critic_Loss:0.113| Success rate:0.000| 3.7/7.7 GB RAM
+Epoch:30| Running_reward:-49.971| EP_reward:-50.000| Memory_length:3100| Duration:291.478| Actor_Loss:6.113| Critic_Loss:0.088| Success rate:0.000| 3.7/7.7 GB RAM
+Epoch:31| Running_reward:-49.981| EP_reward:-50.000| Memory_length:3200| Duration:286.942| Actor_Loss:5.161| Critic_Loss:0.196| Success rate:0.000| 3.7/7.7 GB RAM
+Epoch:32| Running_reward:-49.267| EP_reward:-50.000| Memory_length:3300| Duration:288.074| Actor_Loss:4.903| Critic_Loss:0.113| Success rate:0.200| 3.7/7.7 GB RAM
+Epoch:33| Running_reward:-49.206| EP_reward:-50.000| Memory_length:3400| Duration:289.053| Actor_Loss:5.371| Critic_Loss:0.142| Success rate:0.300| 3.8/7.7 GB RAM
+Epoch:34| Running_reward:-50.000| EP_reward:-50.000| Memory_length:3500| Duration:291.016| Actor_Loss:6.378| Critic_Loss:0.167| Success rate:0.000| 3.8/7.7 GB RAM
+Epoch:35| Running_reward:-49.620| EP_reward:-12.000| Memory_length:3600| Duration:287.165| Actor_Loss:5.015| Critic_Loss:0.137| Success rate:0.100| 3.8/7.7 GB RAM
+Epoch:36| Running_reward:-50.000| EP_reward:-50.000| Memory_length:3700| Duration:295.391| Actor_Loss:5.376| Critic_Loss:0.302| Success rate:0.000| 3.9/7.7 GB RAM
+Epoch:37| Running_reward:-50.000| EP_reward:-50.000| Memory_length:3800| Duration:299.592| Actor_Loss:5.132| Critic_Loss:0.349| Success rate:0.000| 3.8/7.7 GB RAM
+Epoch:38| Running_reward:-49.612| EP_reward:-50.000| Memory_length:3900| Duration:288.267| Actor_Loss:4.668| Critic_Loss:0.192| Success rate:0.100| 3.9/7.7 GB RAM
+Epoch:39| Running_reward:-50.000| EP_reward:-50.000| Memory_length:4000| Duration:293.191| Actor_Loss:5.335| Critic_Loss:0.122| Success rate:0.000| 3.9/7.7 GB RAM
+Epoch:40| Running_reward:-50.000| EP_reward:-50.000| Memory_length:4100| Duration:300.410| Actor_Loss:4.449| Critic_Loss:0.212| Success rate:0.000| 3.9/7.7 GB RAM
+Epoch:41| Running_reward:-50.000| EP_reward:-50.000| Memory_length:4200| Duration:288.289| Actor_Loss:5.282| Critic_Loss:0.168| Success rate:0.000| 3.9/7.7 GB RAM
+Epoch:42| Running_reward:-49.410| EP_reward:-50.000| Memory_length:4300| Duration:306.721| Actor_Loss:5.491| Critic_Loss:0.145| Success rate:0.200| 3.9/7.7 GB RAM
+Epoch:43| Running_reward:-49.585| EP_reward:-50.000| Memory_length:4400| Duration:294.907| Actor_Loss:6.097| Critic_Loss:1.164| Success rate:0.100| 3.9/7.7 GB RAM
+Epoch:44| Running_reward:-49.734| EP_reward:-50.000| Memory_length:4500| Duration:302.127| Actor_Loss:5.305| Critic_Loss:0.841| Success rate:0.100| 3.9/7.7 GB RAM
+Epoch:45| Running_reward:-14.735| EP_reward:-14.000| Memory_length:4600| Duration:288.787| Actor_Loss:6.521| Critic_Loss:0.262| Success rate:0.500| 3.9/7.7 GB RAM
+Epoch:46| Running_reward:-49.879| EP_reward:-50.000| Memory_length:4700| Duration:294.997| Actor_Loss:5.512| Critic_Loss:0.224| Success rate:0.000| 4.0/7.7 GB RAM
+Epoch:47| Running_reward:-12.691| EP_reward:-50.000| Memory_length:4800| Duration:295.265| Actor_Loss:4.440| Critic_Loss:0.170| Success rate:0.300| 4.0/7.7 GB RAM
+Epoch:48| Running_reward:-49.532| EP_reward:-19.000| Memory_length:4900| Duration:294.102| Actor_Loss:5.464| Critic_Loss:0.173| Success rate:0.200| 4.0/7.7 GB RAM
+Epoch:49| Running_reward:-49.282| EP_reward:-13.000| Memory_length:5000| Duration:301.790| Actor_Loss:5.326| Critic_Loss:0.181| Success rate:0.200| 4.0/7.7 GB RAM
+
+
